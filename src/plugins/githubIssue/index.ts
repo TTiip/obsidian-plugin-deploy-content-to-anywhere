@@ -28,7 +28,7 @@ export function githubIssue(main: MyPlugin) {
         new Notice("提交成功");
         console.log("提交成功");
       } catch (error: any) {
-        new Notice(`提交失败: ${error.message}}`);
+        new Notice(`提交失败: ${error.message}`);
         console.log("提交失败", error);
       }
     },
