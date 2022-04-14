@@ -22,15 +22,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cuixiaorui/obsidian-deploy-content-to-anywhere.git"
+    "url": "git+https://github.com/TTiip/obsidian-plugin-deploy-content-to-anywhere.git"
   },
   "keywords": [],
-  "author": "cuixiaorui",
+  "author": "TTiip",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cuixiaorui/obsidian-deploy-content-to-anywhere/issues"
+    "url": "https://github.com/TTiip/obsidian-plugin-deploy-content-to-anywhere.git/issues"
   },
-  "homepage": "https://github.com/cuixiaorui/obsidian-deploy-content-to-anywhere#readme",
+  "homepage": "https://github.com/TTiip/obsidian-plugin-deploy-content-to-anywhere.git#readme",
   "dependencies": {
     "@octokit/core": "^3.5.1",
     "@rollup/plugin-json": "^4.1.0",
